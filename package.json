@@ -14,6 +14,7 @@
     "url": "^0.11.3",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://github.com/Gokulsarav.github.io/React-API-Task-coapps",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
@@ -39,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
